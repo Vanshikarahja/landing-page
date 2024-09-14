@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Madimi+One&family=Oswald:wght@200..700&display=swap');
+
+
+#main{
+    background-color:#66545E ;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+#part1{
+    height: 100vh;
+    width: 22vw;
+    /* background-color: yellow; */
+}
+#part2{
+    height: 100vh;
+    width: 78vw;
+    background-color: pink;
+    background-image: url("https://media.istockphoto.com/id/489338918/photo/close-up-portrait-of-beautiful-woman-with-bright-make-up.jpg?s=612x612&w=0&k=20&c=uWWzhp2fIAhYw5DXWWp454TyKGrDM2QIqfZeEow_ETI=");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+#over-lay{
+    height: 100vh;
+    width: 78vw;
+    background-color: #b69caa74;
+}
+#part3{
+    height: 100vh;
+    width: 10vw;
+    /* background-color: blue; */
+}
+#text{
+    /* background-color: red; */
+    height: 40vh;
+    width: 25vw;
+    left: 10%;
+    top: 35%;
+    position: absolute;
+}
+#text h1{
+    color: white;
+    line-height: 0.4;
+  font-size: 80px;
+  font-family:  "Oswald", sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+
+}
+#box{
+   background-color: red;
+   height: 55vh;
+   width: 20vw;
+   position: absolute;
+   left: 75%;
+   top: 30%;
+   transform: translate(0 -50%);
+   background-image: url("https://media.istockphoto.com/id/533578814/photo/beauty-fashion-model-girl-with-bright-makeup.jpg?s=2048x2048&w=is&k=20&c=KcdhicSVrnAmQGLhNA2Gv1A-C4NSe4R_7WoCwK5JM1o=");
+   background-size: cover;
+   background-position: center;
+   
+
+}
+#over-lay1{
+    height: 55vh;
+    width: 20vw;
+    background-color: #88707d51 ;
+}
+#vertical{
+    position: absolute;
+    right: 5%;
+    transform: rotate(90deg);
+    transform-origin: 0% 0%;
+  top: -5%;
+  right: -48%;
+
+
+    /* background-color: red; */
+}
+#vertical h1{
+    /* color: transparent; */
+    font-size: 80px;
+    font-weight: 900;
+    text-transform: uppercase;
+    /* font-family: monument; */
+    -webkit-text-stroke-width:2x;
+    -webkit-text-stroke-color: white;
+    color: white;
+    letter-spacing: 14px;
+    font-weight: 900;
+    font-family: "Madimi One", sans-serif;
+    text-decoration: underline;
+    /* transform: rotate(90deg); */
+    
+
+
+
+}
+#nav{
+    position: absolute;
+   
+  height: 150px;
+  width: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;    
+  top: 4%;
+  left: 3%;
+}
+#nav img{
+    width: 100px;
+    height: 50px;
+
+}
+#nav h5{
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
