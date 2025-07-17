@@ -7,7 +7,7 @@ This project demonstrates my frontend skills including layout design, responsive
 
 ## 📸 Preview
 
-![Landing Page Preview](./landinPage.png)  
+![Landing Page Preview](./landinPage.png.png)  
 
 
 ---
