@@ -7,8 +7,8 @@ This project demonstrates my frontend skills including layout design, responsive
 
 ## 📸 Preview
 
-![Landing Page Preview](https://user-images.githubusercontent.com/00000000/preview-image.png)  
-*(You can add a real screenshot here if available)*
+![Landing Page Preview](./landinPage.png)  
+
 
 ---
 
