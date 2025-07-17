@@ -7,7 +7,7 @@ This project demonstrates my frontend skills including layout design, responsive
 
 ## 📸 Preview
 
-![Landing Page Preview](./landinPage.png.png)  
+![Landing Page Preview](https://github.com/Vanshikarahja/landing-page/blob/main/landingPage.png.png?raw=true)  
 
 
 ---
